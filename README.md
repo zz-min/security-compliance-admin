@@ -56,6 +56,7 @@ README.md
 
 ## 6. 문서 / 참고 자료
 - 요구사항: [docs/01_requirements.md](docs/01_requirements.md)  
+- 유스케이스: [docs/02_use_cases.md](docs/02_use_cases.md)  
 
 ## 7. 사용 목적
 - 개인 포트폴리오

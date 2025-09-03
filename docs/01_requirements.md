@@ -296,6 +296,6 @@
 | PII (Personally Identifiable Information, 개인식별정보) | 사람을 직접 식별할 수 있는 모든 데이터                                                 |
 
 ## 5. 참조 문서
-- **02_use_cases.md** — 유스케이스 상세 (작성 예정)
+- [02_use_cases.md — 유스케이스 상세](./02_use_cases.md)
 - **03_architecture.md** — 시스템 아키텍처 및 설계 (작성 예정)
 - **04_db_erd.md** — 데이터 모델/ERD (작성 예정)
