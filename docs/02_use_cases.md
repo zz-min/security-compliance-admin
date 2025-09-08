@@ -1,8 +1,8 @@
-# Security Compliance Admin — 유스케이스 명세 (v0.1)
+# Security Compliance Admin — 유스케이스 명세 (v0.2)
 보안성 심사 대응용 어드민 시스템  
 
 ## 목차
-- [Security Compliance Admin — 유스케이스 명세 (v0.1)](#security-compliance-admin--유스케이스-명세-v01)
+- [Security Compliance Admin — 유스케이스 명세 (v0.2)](#security-compliance-admin--유스케이스-명세-v02)
   - [목차](#목차)
   - [0. 문서 메타](#0-문서-메타)
   - [1. 개요](#1-개요)
